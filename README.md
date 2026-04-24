@@ -77,7 +77,7 @@ An AI-powered developer platform that helps users:
 ![AI Integration](https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
 ![AI Orchestration](https://img.shields.io/badge/AI-Orchestration-darkblue?style=for-the-badge)
-![AI Apps](https://img.shields.io/badge/AI-Application-Development-green?style=for-the-badge)
+![AI Apps](https://img.shields.io/badge/AI-Application-Development-green?style=for-the-badge) 
 
 ---
 
