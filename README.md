@@ -101,9 +101,8 @@ An AI-powered developer platform that helps users:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(Add your link here)*
-- 🌍 Website: https://codebugx.onrender.com
-
+- 💼 LinkedIn: [Venkat Pabolu](www.linkedin.com/in/venkat-pabolu-9a6799265)
+- 🌍 Website: [CodeBugX](https://codebugx.onrender.com)
 ---
 
 ## 💡 Philosophy
