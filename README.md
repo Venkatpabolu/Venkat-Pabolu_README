@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkat Pabolu</h1>
-<h3 align="center">🚀 AI-Powered Full Stack Developer | Founder of CodeBugX</h3>
+<h3 align="center">🚀 GenAI-Augmented Software Developer | Founder of CodeBugX</h3>
 
-<p align="center">
+<p align="center">a
 "Perfection takes time to prevent future problems."
 </p>
 
@@ -10,6 +10,12 @@
 ## 👨‍💻 About Me
 
 I am a Computer Science graduate and aspiring Software Engineer who focuses on building real-world solutions using modern technologies.
+
+I specialize in leverage AI to accelerate development, solve complex problems, and build scalable systems efficiently.
+
+I am not limited to one domain — I focus on understanding and solving problems , building and delivering, effective and possible solutions using best and right technologies available.
+
+I believe in learning by building and continuously improving through real-world projects.
 
 I am the **Founder & Developer of CodeBugX**, an AI-powered full-stack SaaS platform designed to help developers generate, convert, and debug code efficiently.
 
