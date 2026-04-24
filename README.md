@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venkat Pabolu</h1>
 <h3 align="center">🚀 GenAI-Augmented Software Developer | Founder of CodeBugX</h3>
 
-<p align="center">a
-"Perfection takes time to prevent future problems."
+<p align="center">
+"Perfection takes time, to prevent future problems."
 </p>
 
 ---
