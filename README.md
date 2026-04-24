@@ -57,33 +57,61 @@ An AI-powered developer platform that helps users:
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Tools
-
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & APIs
+---
 
+### ⚙️ Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API-Development-lightgrey?style=for-the-badge)
 
-### 🧠 AI & Tools
+---
 
-![AI](https://img.shields.io/badge/AI-Generative-blueviolet?style=for-the-badge)
+### 🧠 AI & Generative Technologies
+![Generative AI](https://img.shields.io/badge/Generative-AI-blueviolet?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
+![AI Orchestration](https://img.shields.io/badge/AI-Orchestration-darkblue?style=for-the-badge)
+![AI Apps](https://img.shields.io/badge/AI-Application-Development-green?style=for-the-badge)
 
-### ☁️ Cloud & Database
+---
 
+### ☁️ Cloud, Database & Deployment
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-Cloud-46E3B7?style=for-the-badge)
+![Cloud Deployment](https://img.shields.io/badge/Cloud-Deployment-blue?style=for-the-badge)
 
-### 🔐 Authentication & Email
+---
 
+### 🔐 Authentication & Integrations
 ![OAuth](https://img.shields.io/badge/OAuth-Authentication-green?style=for-the-badge)
 ![SendGrid](https://img.shields.io/badge/SendGrid-Email-blue?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google-Analytics-orange?style=for-the-badge)
+
+---
+
+### 🛠️ Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Engineering Skills
+- System Design  
+- Database Design  
+- Full-Stack Development  
+- Back-End Development  
+- Problem Solving  
+- Rapid Prototyping  
+- AI-Assisted Development  
+- Proactive Learning  
+- Adaptive Learning  
 
 ---
 
